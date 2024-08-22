@@ -68,7 +68,7 @@ User mode execution of user-run processes ensures that a user space process cann
 
 
 <div>
-  <img src="https://github.com/user-attachments/assets/d92fbb96-b939-405d-8695-edb706d78891">
+  <img src="https://github.com/user-attachments/assets/9edaae26-193e-4f0f-a8df-bcbd3be751de">
 </div>
 
 ## What is kernel Space ?
