@@ -15,7 +15,7 @@ The `ps` command is used to display information about active processes. The foll
 - **`read()`** and **`write()`**: Read and write process information to and from files or output.
 - **`open()`** and **`close()`**: Open and close files that contain process information (e.g., `/proc` filesystem).
 <div>
-  <img stc="Screenshot from 2024-08-27 05-47-54](https://github.com/user-attachments/assets/122ccfa4-4eb4-49f6-95fb-53c156bea510"
+  <img stc="Screenshot from 2024-08-27 05-47-54](https://github.com/user-attachments/assets/122ccfa4-4eb4-49f6-95fb-53c156bea510">
 </div>
 
 
