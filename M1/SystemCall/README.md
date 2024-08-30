@@ -1,4 +1,3 @@
-mahmoud is good at different thing 
 # System Call 
 ## Task 1
 ### Trace System call for `ps` & `cd` & `ls`  commands
@@ -15,7 +14,7 @@ The `ps` command is used to display information about active processes. The foll
 - **`read()`** and **`write()`**: Read and write process information to and from files or output.
 - **`open()`** and **`close()`**: Open and close files that contain process information (e.g., `/proc` filesystem).
 <div>
-  <img stc="Screenshot from 2024-08-27 05-47-54](https://github.com/user-attachments/assets/122ccfa4-4eb4-49f6-95fb-53c156bea510">
+  <img src="https://github.com/user-attachments/assets/122ccfa4-4eb4-49f6-95fb-53c156bea510">
 </div>
 
 
