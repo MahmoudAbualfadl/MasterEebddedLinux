@@ -25,4 +25,7 @@ the `cd` (change directory ) commmand change current working directory of the sh
   <img src="https://github.com/user-attachments/assets/641f16f6-4ccd-411c-810f-d31a86b4ee32">
 </div>
 
+`ls` command 
+the `ls` command lists directory content several system calls:
+
 
