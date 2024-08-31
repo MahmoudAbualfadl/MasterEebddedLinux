@@ -17,5 +17,12 @@ The `ps` command is used to display information about active processes. The foll
   <img src="https://github.com/user-attachments/assets/122ccfa4-4eb4-49f6-95fb-53c156bea510">
 </div>
 
+# `cd` Command
+the `cd` (change directory ) commmand change current working directory of the shell:
+ - **`chidr()`**: this is the primary system calll used by the `cd` command to change the current working directory
+ - **`getcwd`**:often used by the shell to get current working directory before changing it .
+ <div>
+  <img src="https://github.com/user-attachments/assets/641f16f6-4ccd-411c-810f-d31a86b4ee32">
+</div>
 
 
