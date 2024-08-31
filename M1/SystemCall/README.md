@@ -37,7 +37,7 @@ the `ls` command lists directory content involves several system calls:
   <img src="https://github.com/user-attachments/assets/ca1682c3-9736-4333-afff-d61e55fd13f5">
 </div>
 
-#Tracing System Calls
+# Tracing System Calls
 ## **To trace these system calls, you can use tools like strace on Linux. Here’s how you might use strace to trace these commands:**
 ```
 strace ps
@@ -45,6 +45,7 @@ strace ps
 strace -e trace=chdir bash -c 'cd /path/to/directory'
 strace ls
 ```
+## Task2
 
 
 
