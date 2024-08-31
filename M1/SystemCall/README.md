@@ -34,7 +34,7 @@ the `ls` command lists directory content involves several system calls:
  -  **`stat()`** and **`lstat()`**: to get files status information (e.g., to check file types and permissions).
  - **`readsir`** to read directory entries in a more user-friendly way ( if implemented int the program).
   <div>
-  <img src="https://github.com/user-attachments/assets/b3f13009-08a1-49fe-991e-2394dbe5106b">
+  <img src="https://github.com/user-attachments/assets/ca1682c3-9736-4333-afff-d61e55fd13f5">
 </div>
 
 
