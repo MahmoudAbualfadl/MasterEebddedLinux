@@ -26,6 +26,16 @@ the `cd` (change directory ) commmand change current working directory of the sh
 </div>
 
 `ls` command 
-the `ls` command lists directory content several system calls:
+the `ls` command lists directory content involves several system calls:
+ - **`open()`**: to open directoery to read contents.
+ - **`getdents()`**: To get directory entries (this is low -level system used to read directory contents).
+ -  **`read()`**: to read directory entriesif the `getdents()` call is not used.
+ -  **`close()`**: To close the diretory files descriptor after reading contents.
+ -  **`stat()`** and **`lstat()`**: to get files status information (e.g., to check file types and permissions).
+ - **`readsir`** to read directory entries in a more user-friendly way ( if implemented int the program).
+  <div>
+  <img src="https://github.com/user-attachments/assets/b3f13009-08a1-49fe-991e-2394dbe5106b">
+</div>
+
 
 
