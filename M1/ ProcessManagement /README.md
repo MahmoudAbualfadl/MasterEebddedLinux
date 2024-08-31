@@ -42,3 +42,10 @@ sudo renice -n 19 -p <process_id>
 ```
 
 Replace `process_id` with the process IDs obtained from the `top` command or any other process management tool
+
+**4.Killing Processes, We can Usse the `killall`
+command followed by the precess name
+
+**comand Used:**
+```
+killall -g top
