@@ -137,14 +137,16 @@ pwd
   ## Commands Used to Solve Exercise 7
  
 1. list files in the current directory:
-    `ls`
-    
-2. View the cintents of the files `output.txt`:
-   `cat output.txt`
+
+`ls`
+
+3. View the cintents of the files `output.txt`:
+ 
+`cat output.txt`
 
 3.search for a file named `output.txt` that contains the word "mahmoud" and print its path:
 
-`find . -name output.txt -exec grep -l Hello {} \;`
+ `find . -name output.txt -exec grep -l Hello {} \;`
 
 4.Search for the string "work" in the file output.txt:
 
@@ -156,6 +158,38 @@ pwd
    <img src="https://github.com/user-attachments/assets/41972619-9e28-4c7c-9514-20a0e1f5227b">
   </div>
 
+  # Exercise 9: Networking
+
+   1. Ping spotify.com to test network connectivity:
+
+    `ping spotify.com`
+  
+  2.Check network interfaces and their configurations:
+
+    ` ifconfig`
+  
+  3.List all open ports:
+   
+   `netstat -tulpn`
+
+
+
+<div>
+   <img src="https://github.com/user-attachments/assets/fd05af62-3ea4-4ca4-8160-627b020fde0e">
+  </div>
+
+  
+
+  
+<div>
+   <img src="https://github.com/user-attachments/assets/d8e5c7d3-a496-4b65-95af-058394e9273d">
+  </div>
+
+  
+<div>
+   <img src="https://github.com/user-attachments/assets/8f264ad2-603c-4271-9c09-84e73299afab">
+  </div>
+  
  
   
     
