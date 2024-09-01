@@ -113,6 +113,13 @@ pwd
    <div>
    <img src="https://github.com/user-attachments/assets/b76fe4be-b338-4787-b366-ce1826eca67a">
   </div>
+
+  ## Exrecise 6: Process Management
+  - List all processes using `ps`.
+  - List processes in real-time using `top`.
+  - Find a specific process using `pgrep`.
+  - Terminate a process using `kill`.
+    
   
 
 
