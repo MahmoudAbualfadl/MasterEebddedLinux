@@ -189,6 +189,21 @@ pwd
 <div>
    <img src="https://github.com/user-attachments/assets/8f264ad2-603c-4271-9c09-84e73299afab">
   </div>
+
+  # Exercise 10 :Package Mangement
+   
+   1-Update the package list using the package manager
+    
+    `sudo apt update`
+
+    
+   <div>
+   <img src="https://github.com/user-attachments/assets/db1eff38-2fae-4857-b859-5808b6e15784">
+   </div>
+    
+   
+
+  
   
  
   
