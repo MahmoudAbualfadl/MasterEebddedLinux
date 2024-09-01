@@ -66,6 +66,31 @@ pwd
    <img src="https://github.com/user-attachments/assets/bf5f2364-971c-4b70-a265-ee57b19fcd5b">
   </div>
 
+  ## Exercise 4:
+  
+  - Create a file and set specific permissions using `chmod`.
+  - Checking the permissions of the file using `ls-l`.
+  - Change the owner and group of the file using `chown`
+  - Verify the changes using `ls-l`.
+
+    ```
+    ls
+    ls -l
+    chmod 51 file.txt
+    cat /etc/passwd
+    cat /etc/group
+    sudo chown mahhmoud file.txt
+    ```
+  <div>
+   <img src="https://github.com/user-attachments/assets/c7021999-b946-47e3-8225-974fe2e4e9fe">
+  </div>
+
+
+ <div>
+   <img src="https://github.com/user-attachments/assets/49433b3b-1382-424d-bb98-01a58d6f8000">
+  </div>
+  
+
 
   
   
