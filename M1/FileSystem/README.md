@@ -119,6 +119,17 @@ pwd
   - List processes in real-time using `top`.
   - Find a specific process using `pgrep`.
   - Terminate a process using `kill`.
+
+     <div>
+   <img src="https://github.com/user-attachments/assets/e95ee307-3dfa-4a16-bf2b-b14add927921">
+  </div>
+  
+
+   <div>
+   <img src="https://github.com/user-attachments/assets/584e4590-54ee-40b2-8855-f3722f4cf593">
+  </div>
+
+  
     
   
 
