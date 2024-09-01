@@ -1,5 +1,6 @@
-# Task 
-## Exercise 1: Basic Navigation
+# Task
+
+# Exercise 1: Basic Navigation
  - Use `ls` to list files and directors in the current directory.
  - Use `cd` to naviagete to a specific directory.
  - Use `pwd` to print the current working directory.
@@ -15,7 +16,7 @@ pwd
   <img src="https://github.com/user-attachments/assets/e5a59007-88f8-4ca2-8b2c-0b6b31f47472">
 </div>
 
-## Exrcise 2: File and directory Operations
+# Exrcise 2: File and directory Operations
 - Create a directory named "practice" in the current directory using `mkdir`.
 - Create an empty file named "file.txt" within the "practice" directory using `touch`.
 - Copy "file.txt" to new file "file_backup.txt" using `cp`.
@@ -39,7 +40,7 @@ pwd
 <img src="https://github.com/user-attachments/assets/629df20d-e350-4a5e-819f-3caa661e1048">
 </div>
 
-## Exercise 3: File Viewing And Editing
+# Exercise 3: File Viewing And Editing
 - Create a text file using `echo` or a text editor like `nano`.
 - View the content of file using cat.
 - View the content of the file using less.
@@ -66,7 +67,7 @@ pwd
    <img src="https://github.com/user-attachments/assets/bf5f2364-971c-4b70-a265-ee57b19fcd5b">
   </div>
 
-  ## Exercise 4: File permissions
+  # Exercise 4: File permissions
   
   - Create a file and set specific permissions using `chmod`.
   - Checking the permissions of the file using `ls-l`.
@@ -90,7 +91,7 @@ pwd
    <img src="https://github.com/user-attachments/assets/49433b3b-1382-424d-bb98-01a58d6f8000">
   </div>
   
-## Exrecise 5 :User and Group Management
+# Exrecise 5 :User and Group Management
 
 - Create a new user `useradd`.
 - Set a password For the user using `passwd.`
@@ -114,7 +115,7 @@ pwd
    <img src="https://github.com/user-attachments/assets/b76fe4be-b338-4787-b366-ce1826eca67a">
   </div>
 
-  ## Exrecise 6: Process Management
+  # Exrecise 6: Process Management
   - List all processes using `ps`.
   - List processes in real-time using `top`.
   - Find a specific process using `pgrep`.
@@ -129,6 +130,33 @@ pwd
    <img src="https://github.com/user-attachments/assets/584e4590-54ee-40b2-8855-f3722f4cf593">
   </div>
 
+  # Exrecise 7: File Searchimg
+  
+  **In this exercise, we will use the `find` and `grep` commands to search for specific files and        strings within files.**
+
+  ## Commands Used to Solve Exercise 7
+ 
+1. list files in the current directory:
+    `ls`
+    
+2. View the cintents of the files `output.txt`:
+   `cat output.txt`
+
+3.search for a file named `output.txt` that contains the word "mahmoud" and print its path:
+
+`find . -name output.txt -exec grep -l Hello {} \;`
+
+4.Search for the string "work" in the file output.txt:
+
+`grep work output.txt`  
+
+
+
+<div>
+   <img src="https://github.com/user-attachments/assets/41972619-9e28-4c7c-9514-20a0e1f5227b">
+  </div>
+
+ 
   
     
   
