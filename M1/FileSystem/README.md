@@ -37,7 +37,38 @@ pwd
 
 <div>
 <img src="https://github.com/user-attachments/assets/629df20d-e350-4a5e-819f-3caa661e1048">
-<\di>
+</div>
+
+## Exercise 3: File Viewing And Editing
+- Create a text file using `echo` or a text editor like `nano`.
+- View the content of file using cat.
+- View the content of the file using less.
+- Edit the file using `nano` or another text editor.
+- Redirect the output of a command (e.g., ls) to a file using.
+
+  ```
+  echo "Mahmoud Will be working in big company insallah"
+  echo "Mahmoud Will be working in big company insallah" >>file.txt
+  cat file.txt
+  less file.txt
+  ```
+  <div>
+   <img src="https://github.com/user-attachments/assets/c2b36223-c3cb-4daf-8e4c-95ef004e6c7e">
+  </div>
+
+  ```
+  nano file.txt
+  cat file.txt > output.txt
+  cat output.txt
+  ```
+
+  <div>
+   <img src="https://github.com/user-attachments/assets/bf5f2364-971c-4b70-a265-ee57b19fcd5b">
+  </div>
+
+
+  
+  
 
 
   
