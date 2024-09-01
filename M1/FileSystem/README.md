@@ -66,7 +66,7 @@ pwd
    <img src="https://github.com/user-attachments/assets/bf5f2364-971c-4b70-a265-ee57b19fcd5b">
   </div>
 
-  ## Exercise 4:
+  ## Exercise 4: File permissions
   
   - Create a file and set specific permissions using `chmod`.
   - Checking the permissions of the file using `ls-l`.
@@ -90,9 +90,29 @@ pwd
    <img src="https://github.com/user-attachments/assets/49433b3b-1382-424d-bb98-01a58d6f8000">
   </div>
   
+## Exrecise 5 :User and Group Management
+
+- Create a new user `useradd`.
+- Set a password For the user using `passwd.`
+- Create a new group using `groupadd`.
+- Add the user to the newly created group using `usermod`.
+
+  ```
+  sudo adduser 
+  sudo grouppadd
+  sudo usermod -G 
+  cat /etc/group
+  ```
+ 
+ <div>
+   <img src="https://github.com/user-attachments/assets/27c5adda-19ac-4c49-a7e5-c7ae642b729c">
+  </div>
 
 
   
+   <div>
+   <img src="https://github.com/user-attachments/assets/b76fe4be-b338-4787-b366-ce1826eca67a">
+  </div>
   
 
 
