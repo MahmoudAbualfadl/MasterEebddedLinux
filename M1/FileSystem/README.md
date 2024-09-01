@@ -200,6 +200,32 @@ pwd
    <div>
    <img src="https://github.com/user-attachments/assets/db1eff38-2fae-4857-b859-5808b6e15784">
    </div>
+
+  # Exercise 12: Text Processing 
+  
+  1- View the contents of the file output.txt
+ 
+  `cat output.txt`
+  2- Use sed to replace the word "big" with "valeo" in output.txt:
+ 
+    ```
+    sed -i 's/big/valeo/g' output.txt~
+    ```
+    
+   3-Use `awk` to extract specific columns (1st, 3rd, and 5th) from `data.csv`:
+
+   ```
+    awk -F ',' '{print $1,$3,$5}' data.csv
+   ```
+4-Use grep to find lines in output.txt that contain the letter "M":
+   
+   ```
+   grep 'a' output.txt
+   ```
+
+   <div>
+   <img src="https://github.com/user-attachments/assets/42384cdf-c364-4c8c-b075-5923c1884399">
+   </div>
     
    
 
